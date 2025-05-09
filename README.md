@@ -32,3 +32,40 @@ Navigation helps users **move through the website or app** easily. It includes *
 
 ### 3. Content Placement
 Content placement determines
+
+## Types of Wireframes
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are **basic sketches** that outline the structure of a page without detailed design elements. They focus on **layout and functionality** rather than aesthetics.
+
+#### **Characteristics:**
+- Simple **black-and-white** sketches.
+- No detailed styling or colors.
+- Focuses on **placement of elements** rather than design.
+
+#### **When to Use:**
+- Early-stage brainstorming.
+- Quick validation of ideas.
+- Gathering feedback from stakeholders.
+
+#### **Example:**
+A **hand-drawn sketch** or a **simple box-based layout** created in Figma.
+
+---
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are **detailed representations** of the final design, including colors, typography, and interactive elements.
+
+#### **Characteristics:**
+- Includes **fonts, colors, and images**.
+- Represents **actual UI components**.
+- Shows **interactions** like buttons and hover effects.
+
+#### **When to Use:**
+- Later stages of design.
+- Preparing for development.
+- Usability testing.
+
+#### **Example:**
+A **fully designed mockup** in Figma with **buttons, icons, and real content**.
+
