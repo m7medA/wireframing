@@ -11,3 +11,24 @@ Wireframing helps designers and developers:
 - **Ensure a smooth user experience**.
 
 By creating wireframes, teams can **visualize ideas**, make quick adjustments, and build **user-friendly designs** efficiently.
+
+## Key Elements of Wireframing
+
+Wireframing is a **blueprint** for designing user-friendly applications. It helps developers and designers plan the structure of a website or app before coding begins. Below are the **four key elements** of wireframing:
+
+### 1. Layout Structure
+The **layout** defines the overall arrangement of elements on a page. It ensures that content is **organized** and **visually balanced**.
+
+#### Example:
+- A **homepage layout** may include a **header**, a **main content section**, and a **footer**.
+- A **dashboard layout** may have a **sidebar for navigation** and a **main panel for content**.
+
+### 2. Navigation
+Navigation helps users **move through the website or app** easily. It includes **menus, buttons, and links** that guide users to different sections.
+
+#### Example:
+- A **top navigation bar** with links to **Home, About, Services, and Contact**.
+- A **mobile app menu** with icons for **Profile, Settings, and Notifications**.
+
+### 3. Content Placement
+Content placement determines
